@@ -4,5 +4,7 @@ Team SVM - Sumnjamo u Vjerodostojnost Modela:\
 Ivan Kapec\
 Helena Tušek\
 Petra Zelić\
-Iva Mavrek\
+Iva Mavrek\\
 
+We will try to solve an already completed Kaggle competition which can be found at this link:\
+https://www.kaggle.com/c/ga-customer-revenue-prediction/overview
