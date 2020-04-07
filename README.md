@@ -8,3 +8,6 @@ Iva Mavrek
 
 We will try to solve an already completed Kaggle competition which can be found at this link:\
 https://www.kaggle.com/c/ga-customer-revenue-prediction/overview
+
+Our work will be based primarily on the winning solution created by Konstantin Nikolaev. It can be found at this link:\
+https://www.kaggle.com/c/ga-customer-revenue-prediction/discussion/82614
