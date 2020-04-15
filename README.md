@@ -17,5 +17,5 @@ https://www.kaggle.com/c/ga-customer-revenue-prediction/download/FB39Cgtjy1N7gJo
 Our work will be based primarily on the winning solution created by Konstantin Nikolaev. It can be found at this link:\
 https://www.kaggle.com/c/ga-customer-revenue-prediction/discussion/82614
 
-Our exploratory data analysis will be based primarily on the work of the kaggler by the name of SRK. It can be found here:\
+Our exploratory data analysis will be based primarily on the work of a Kaggler by the name of SRK. It can be found here:\
 https://www.kaggle.com/sudalairajkumar/simple-exploration-baseline-ga-customer-revenue
